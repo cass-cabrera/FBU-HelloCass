@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FBU PreWork</string>
+    <string name="helloText">Hello from Cass!</string>
+    <string name="change">Change Text Color</string>
+</resources>
